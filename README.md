@@ -1,2 +1,2 @@
 # hello-world
-Testing git
+Testing the functinality of github and its usecase for r2i
